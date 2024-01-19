@@ -1,0 +1,19 @@
+.contact h1 {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.contact {
+  max-width: 1000px;
+  align-items: center;
+  margin: 0 auto;
+  height: 192px;
+  padding-top: 50px;
+}
+
+.contact p {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--gray);
+  max-width: 975px;
+}
